@@ -6,6 +6,7 @@ Professor Github Statistical data analysis
 
 https://github.com/gabriele-sirri/statistical-data-analysis?tab=readme-ov-file
 
+Course material slide
 
 
 
