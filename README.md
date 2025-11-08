@@ -1,3 +1,6 @@
+LaTex
+vcan i use texstudio - a latex editor for windows freelibrary
+
 # Root Installation
 
 https://github.com/gabriele-sirri/statistical-data-analysis/blob/main/howto/root_on_wsl.md
